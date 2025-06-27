@@ -18,7 +18,7 @@ This repository contains my weekly hands-on work and learning progress from the 
 
 ---
 
-### 🗓️ Week 2: TDD, Mocking, Logging & PL/SQL Programming
+### 🗓️ Week 2: JUnit, Mocking, Logging & PL/SQL Programming
 
 #### 🔹 JUnit (Test-Driven Development)
 - ✅ **Exercise 1**: Setting Up JUnit  
