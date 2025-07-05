@@ -37,3 +37,16 @@ This repository contains my weekly hands-on work and learning progress from the 
 - ✅ **Exercise 2**: Stored Procedures  
 
 ---
+
+### 🗓️ Week 3: Spring Core, Maven, and Spring Data JPA
+
+#### 🔹 Spring Core and Maven
+- ✅ **Exercise 1**: Configuring a Basic Spring Application  
+- ✅ **Exercise 2**: Implementing Dependency Injection  
+- ✅ **Exercise 4**: Creating and Configuring a Maven Project  
+
+#### 🔹 Spring Data JPA with Spring Boot, Hibernate
+- ✅ **Exercise 1**: Spring Data JPA - Quick Example  
+- ✅ **Exercise 2**: Difference between JPA, Hibernate, and Spring Data JPA  
+
+---
