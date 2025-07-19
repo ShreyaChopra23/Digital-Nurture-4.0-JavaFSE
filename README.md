@@ -30,11 +30,24 @@ This repository contains my weekly hands-on work and learning progress from the 
 - ✅ **Exercise 5**: Verifying Interactions  
 
 #### 🔹 SLF4J Logging Framework
-- ✅ **Exercise 6**: Logging Error Messages and Warning Levels  
+- ✅ **Exercise 1**: Logging Error Messages and Warning Levels  
 
 #### 🔹 PL/SQL Programming
-- ✅ **Exercise 7**: Control Structures  
-- ✅ **Exercise 8**: Stored Procedures  
+- ✅ **Exercise 1**: Control Structures  
+- ✅ **Exercise 2**: Stored Procedures  
+
+---
+
+### 🗓️ Week 3: Spring Core, Maven & Spring Data JPA
+
+#### 🔹 Spring Core and Maven
+- ✅ **Exercise 1**: Configuring a Basic Spring Application  
+- ✅ **Exercise 2**: Implementing Dependency Injection  
+- ✅ **Exercise 3**: Creating and Configuring a Maven Project  
+
+#### 🔹 Spring Data JPA with Spring Boot and Hibernate
+- ✅ **Exercise 4**: Spring Data JPA - Quick Example  
+- ✅ **Exercise 5**: Understanding Differences Between JPA, Hibernate, and Spring Data JPA  
 
 ---
 
@@ -48,4 +61,5 @@ This repository contains my weekly hands-on work and learning progress from the 
 - ✅ **Exercise 5**: Get Country Based on Country Code  
 
 ---
+
 
