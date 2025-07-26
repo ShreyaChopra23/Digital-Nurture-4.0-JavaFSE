@@ -13,8 +13,8 @@ This repository contains my weekly hands-on work and learning progress from the 
 - ✅ **Exercise 2**: Implementing the Factory Method Pattern  
 
 #### 🔹 Data Structures and Algorithms
-- ✅ **Exercise 2**: E-commerce Platform Search Function  
-- ✅ **Exercise 7**: Financial Forecasting  
+- ✅ **Exercise 3**: E-commerce Platform Search Function  
+- ✅ **Exercise 4**: Financial Forecasting  
 
 ---
 
@@ -37,3 +37,29 @@ This repository contains my weekly hands-on work and learning progress from the 
 - ✅ **Exercise 2**: Stored Procedures  
 
 ---
+
+### 🗓️ Week 3: Spring Core, Maven & Spring Data JPA
+
+#### 🔹 Spring Core and Maven
+- ✅ **Exercise 1**: Configuring a Basic Spring Application  
+- ✅ **Exercise 2**: Implementing Dependency Injection  
+- ✅ **Exercise 3**: Creating and Configuring a Maven Project  
+
+#### 🔹 Spring Data JPA with Spring Boot and Hibernate
+- ✅ **Exercise 4**: Spring Data JPA - Quick Example  
+- ✅ **Exercise 5**: Understanding Differences Between JPA, Hibernate, and Spring Data JPA  
+
+---
+
+### 🗓️ Week 4: Spring REST using Spring Boot 3
+
+#### 🔹 Spring Boot RESTful Services
+- ✅ **Exercise 1**: Create a Spring Web Project using Maven  
+- ✅ **Exercise 2**: Load Country from Spring Configuration XML  
+- ✅ **Exercise 3**: Hello World RESTful Web Service  
+- ✅ **Exercise 4**: Country Web Service  
+- ✅ **Exercise 5**: Get Country Based on Country Code  
+
+---
+
+
