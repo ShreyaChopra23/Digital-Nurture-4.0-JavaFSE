@@ -58,7 +58,14 @@ This repository contains my weekly hands-on work and learning progress from the 
 - ✅ **Exercise 2**: Load Country from Spring Configuration XML  
 - ✅ **Exercise 3**: Hello World RESTful Web Service  
 - ✅ **Exercise 4**: Country Web Service  
-- ✅ **Exercise 5**: Get Country Based on Country Code  
+- ✅ **Exercise 5**: Get Country Based on Country Code
+
+---
+
+### 🗓️ Week 5: Microservices with Spring Boot 3 and Spring Cloud
+
+#### 🔹 Microservices Architecture  
+- ✅ **Exercise 1**: Creating Microservices for Account and Loan
 
 ---
 
