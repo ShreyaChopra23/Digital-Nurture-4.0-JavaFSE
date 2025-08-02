@@ -69,4 +69,13 @@ This repository contains my weekly hands-on work and learning progress from the 
 
 ---
 
+### 🗓️ Week 6: React.js Essentials and Component-Based Development
 
+#### 🔹 React Fundamentals and Mini Projects
+- ✅ **Exercise 1**: Create a basic form in React with state and input handling  
+- ✅ **Exercise 2**: Perform CRUD operations using React state and list mapping  
+- ✅ **Exercise 3**: Develop a Score Calculator app using components and event handling  
+- ✅ **Exercise 4**: Build a Counter app using React Hooks (`useState`)  
+- ✅ **Exercise 5**: Design a Cohort Dashboard using reusable React components
+
+---
